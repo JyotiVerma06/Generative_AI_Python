@@ -38,6 +38,7 @@ New projects will be added regularly as I continue exploring different Generativ
 | Project | Status |
 |---------|--------|
 | AI Image Captioning | ✅ Completed |
+| AI Language Translator | ✅ Completed |
 | More Projects | 🚧 Coming Soon |
 
 ---
